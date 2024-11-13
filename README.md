@@ -1,4 +1,4 @@
-# 🚗 Laboratorio de Gestión de Outliers para Modelos Predictivos en Ventas de Coches
+# 🚗 Laboratorio 7.3: Gestión de Outliers para Modelos Predictivos en Ventas de Coches
 
 ## 📖 Descripción
 
